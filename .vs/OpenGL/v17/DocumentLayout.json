@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\youtube\\OpenGL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98F4254D-ED10-4701-8FA5-9469991A2846}|OpenGL.vcxproj|C:\\dev\\youtube\\OpenGL\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98F4254D-ED10-4701-8FA5-9469991A2846}|OpenGL.vcxproj|solutionrelative:src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": []
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "9af0e12e-b593-4a2c-b2ad-a311fff1d471",
+        "Display": 0,
+        "X": 305,
+        "Y": 94,
+        "Width": 1815,
+        "Height": 982,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\dev\\youtube\\OpenGL\\src\\Application.cpp",
+              "RelativeDocumentMoniker": "src\\Application.cpp",
+              "ToolTip": "C:\\dev\\youtube\\OpenGL\\src\\Application.cpp",
+              "RelativeToolTip": "src\\Application.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-18T13:09:08.668Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
